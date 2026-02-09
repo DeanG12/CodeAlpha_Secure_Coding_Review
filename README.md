@@ -1,2 +1,18 @@
-# CodeAlpha_Secure_Coding_Review
-Secure Coding Review project for CodeAlpha Cyber Security Internship. This project analyses insecure Python code, identifies vulnerabilities, and recommends secure coding practices.
+# Secure Coding Review
+
+This project is part of the CodeAlpha Cyber Security Internship.
+
+## Project Description
+This project reviews a simple Python application to identify common security vulnerabilities and recommend secure coding best practices.
+
+## Language Reviewed
+Python
+
+## Key Topics
+- Hardcoded credentials
+- Password security
+- Authentication weaknesses
+- Secure coding recommendations
+
+## Author
+Dean Gijohn
